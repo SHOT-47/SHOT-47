@@ -1,5 +1,33 @@
 # 💫 About Me:
-Welcome to my corner of GitHub! I'm a **Law Major** by day and an **adventurer** by night (and weekends). My interests span from **constitutional law** to the latest in **tech**, with plenty of pit stops for **high-performance vehicles** and new experiences.
+
+# About Me
+
+## Day Mode:
+- Just a normal **NPC-looking guy** 👀
+
+## Night Mode:
+- **Cybersecurity Professional** 🔒
+- **Ethical Hacking Enthusiast** 💻
+- **Tech Tinkerer & 3D Modeler** 🛠️
+- **Vulnerability Explorer** 🔍
+- **Competitive Gamer** 🎮 (Watch out!)
+
+## Favorites:
+- **Drink**: Vodka 🍸
+
+## Core Passion:
+- **Hacking** (Ethical, of course!) 💻⚡
+
+---
+
+## Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,html,css,js,bootstrap,mysql,postgres,vscode,c,cpp,python,docker,github,ae,pr,blender,arduino,raspberrypi,discord,linux,kali,windows" />
+  </a>
+</p>
+
+---
 
 
 # 💻 Tech Stack:
