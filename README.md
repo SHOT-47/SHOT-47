@@ -1,51 +1,38 @@
-# 💫 About Me
+# About Me
 
 > Just a normal **NPC-looking guy** during the day.
->
 > After dark, things get more interesting.
 
-## ☀️ Day Mode
+## Day
 
-Just another tech enthusiast who enjoys building things, breaking things, and figuring out how they work.
+Tech enthusiast focused on building, breaking, analyzing, and understanding systems.
 
-## 🌙 Night Mode
+## Night
 
-**Cybersecurity is the main game.**
+Cybersecurity-focused with interests in:
 
-* 🔍 Vulnerability Research
-* 🦠 Malware Analysis
-* 🔬 Reverse Engineering
-* 💥 Penetration Testing
-* 🛡️ Security Research
-* ⚙️ Security Tooling
-* 🧩 Low-Level & Systems Analysis
-* 🛠️ Hardware & Embedded Experimentation
+* Vulnerability Research
+* Malware Analysis
+* Reverse Engineering
+* Penetration Testing
+* Security Research
+* Security Tooling
+* Systems & Low-Level Analysis
+* Hardware & Embedded Systems
 
-I enjoy understanding systems from the inside out — how they work, where they fail, and how they can be made more secure.
+## Security
 
----
-
-## 🧠 What I Do
-
-I spend my time exploring software, systems, and security through hands-on experimentation.
-
-```text
-Understand → Analyze → Break → Research → Build → Secure
-```
-
-My main interests are:
+My primary areas of interest:
 
 * Vulnerability discovery and analysis
 * Reverse engineering applications and binaries
-* Malware behavior and analysis
+* Malware analysis and behavioral analysis
 * Penetration testing and security assessment
 * Security tooling and automation
 * Operating systems and low-level concepts
-* Hardware, embedded systems, and experimentation
+* Hardware and embedded security
 
----
-
-## 💻 Tech Stack
+## Technologies
 
 ### Languages
 
@@ -53,7 +40,7 @@ My main interests are:
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
 </p>
 
-### Security & Systems
+### Systems & Security
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,kali,windows,powershell,docker" />
@@ -71,7 +58,7 @@ My main interests are:
   <img src="https://skillicons.dev/icons?i=github,vscode" />
 </p>
 
-### Hardware & Embedded
+### Hardware
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
@@ -83,65 +70,35 @@ My main interests are:
   <img src="https://skillicons.dev/icons?i=blender,ps,ae,pr" />
 </p>
 
----
+## Current Focus
 
-## 🔬 Areas of Interest
+* Vulnerability Research
+* Reverse Engineering
+* Malware Analysis
+* Security Tooling
+* Penetration Testing
+* Systems Security
 
-```text
-Cybersecurity
-├── Vulnerability Research
-├── Reverse Engineering
-├── Malware Analysis
-├── Penetration Testing
-├── Security Research
-└── Security Tooling
+## Projects
 
-Systems
-├── Linux
-├── Windows
-├── PowerShell
-├── C / C++
-└── Low-Level Programming
+Selected security research, tools, experiments, and technical projects will be listed here.
 
-Hardware
-├── Arduino
-└── Raspberry Pi
-```
+## Interests
 
----
+* Competitive Gaming
+* 3D Modeling
+* Hardware
+* Systems
+* Technology
 
-## 🚧 Currently Working On
+## Philosophy
 
-* 🔍 Security research
-* 🔬 Reverse engineering
-* 🦠 Malware analysis
-* 🧩 Vulnerability research
-* ⚙️ Security tooling
-* 🛠️ Technical experiments and projects
-
-> This section reflects areas I'm actively exploring.
-> Projects and repositories provide the actual implementation.
-
----
-
-## 🎮 Beyond Security
-
-When I'm not digging through systems:
-
-* 🧩 Building and experimenting with technology
-* 🖥️ Exploring new software and hardware
-* 🎮 Competitive gaming
-* 🧱 3D modeling
-
----
-
-## 🌙 The Rule
-
-> **Day Mode:** Look normal.
-> **Night Mode:** Understand everything.
+> Understand the system.
+> Find the weakness.
+> Build the solution.
 
 ---
 
 <p align="center">
-  <i>Breaking things to understand them. Building things to make them better.</i>
+  <i>Day: NPC. Night: Security Research.</i>
 </p>
