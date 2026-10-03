@@ -1,39 +1,180 @@
-# 💫 About Me:
+# 💫 About Me
 
-## Day Mode:
-- Just a normal **NPC-looking guy** 👀
+> Just a normal **NPC-looking guy** during the day.
+>
+> After dark, things get more interesting.
 
-## Night Mode:
-- **Cybersecurity Student** 🔒
-- **Ethical Hacking Enthusiast** 💻
-- **Tech Tinkerer & 3D Modeler** 🛠️
-- **Vulnerability Explorer** 🔍
-- **Malware Analysis** 🦠
-- **Reverse Engineering** 🔍
-- **Penetration Testing** 💥
+## ☀️ Day Mode
 
-## Favorites:
-- **Drink**: Vodka 🍸
-- **Playing**: Competitive Games 🎮 (Watch out!)
-- **Eating**: Non-veg 🍗
+Just another tech enthusiast who enjoys building things, breaking things, and figuring out how they work.
 
-## Core Passion:
-- **Hacking** (Ethical, of course!) 💻⚡
+## 🌙 Night Mode
+
+**Cybersecurity is the main game.**
+
+* 🔍 Vulnerability Research
+* 🦠 Malware Analysis
+* 🔬 Reverse Engineering
+* 💥 Penetration Testing
+* 🛡️ Security Research
+* ⚙️ Security Tooling
+* 🧩 Low-Level & Systems Analysis
+* 🛠️ Hardware & Embedded Experimentation
+
+I enjoy understanding systems from the inside out — how they work, where they fail, and how they can be made more secure.
+
+---
+
+## 🧠 What I Do
+
+I spend my time exploring software, systems, and security through hands-on experimentation.
+
+```text
+Understand → Analyze → Break → Research → Build → Secure
+```
+
+My main interests are:
+
+* Vulnerability discovery and analysis
+* Reverse engineering applications and binaries
+* Malware behavior and analysis
+* Penetration testing and security assessment
+* Security tooling and automation
+* Operating systems and low-level concepts
+* Hardware, embedded systems, and experimentation
 
 ---
 
 ## 💻 Tech Stack
+
+### Languages
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,mysql,postgres,vscode,c,cpp,python,docker,github,ps,ae,pr,blender,arduino,raspberrypi,discord,linux,kali,windows,powershell" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+</p>
+
+### Security & Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,kali,windows,powershell,docker" />
+</p>
+
+### Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+### Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
+</p>
+
+### Hardware & Embedded
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
+
+### 3D & Creative
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=blender,ps,ae,pr" />
 </p>
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SHOT-47&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SHOT-47&theme=ambient_gradient&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SHOT-47&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 🔬 Areas of Interest
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```text
+Cybersecurity
+├── Vulnerability Research
+├── Reverse Engineering
+├── Malware Analysis
+├── Penetration Testing
+├── Security Research
+└── Security Tooling
+
+Systems
+├── Linux
+├── Windows
+├── PowerShell
+├── C / C++
+└── Low-Level Programming
+
+Hardware
+├── Arduino
+└── Raspberry Pi
+```
+
+---
+
+## 🚧 Currently Working On
+
+* 🔍 Security research
+* 🔬 Reverse engineering
+* 🦠 Malware analysis
+* 🧩 Vulnerability research
+* ⚙️ Security tooling
+* 🛠️ Technical experiments and projects
+
+> This section reflects areas I'm actively exploring.
+> Projects and repositories provide the actual implementation.
+
+---
+
+## 📌 Featured Projects
+
+> Selected projects will be added here as they become ready to showcase.
+
+<!--
+Example:
+
+### 🔐 Project Name
+Short description of what the project does and what problem it solves.
+
+**Focus:** Security Research · Python · Linux
+
+[View Repository](#)
+-->
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHOT-47&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHOT-47&theme=ambient_gradient&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHOT-47&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+---
+
+## 🎮 Beyond Security
+
+When I'm not digging through systems:
+
+* 🎮 Competitive gaming
+* 🧩 Building and experimenting with technology
+* 🖥️ Exploring new software and hardware
+* 🧱 3D modeling
+
+---
+
+## 🌙 The Rule
+
+> **Day Mode:** Look normal.
+> **Night Mode:** Understand everything.
+
+---
+
+<p align="center">
+  <i>Breaking things to understand them. Building things to make them better.</i>
+</p>
