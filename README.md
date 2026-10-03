@@ -124,39 +124,6 @@ Hardware
 
 ---
 
-## 📌 Featured Projects
-
-> Selected projects will be added here as they become ready to showcase.
-
-<!--
-Example:
-
-### 🔐 Project Name
-Short description of what the project does and what problem it solves.
-
-**Focus:** Security Research · Python · Linux
-
-[View Repository](#)
--->
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHOT-47&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHOT-47&theme=ambient_gradient&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHOT-47&theme=ambient_gradient&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
----
-
 ## 🎮 Beyond Security
 
 When I'm not digging through systems:
