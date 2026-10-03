@@ -161,9 +161,9 @@ Short description of what the project does and what problem it solves.
 
 When I'm not digging through systems:
 
-* 🎮 Competitive gaming
 * 🧩 Building and experimenting with technology
 * 🖥️ Exploring new software and hardware
+* 🎮 Competitive gaming
 * 🧱 3D modeling
 
 ---
